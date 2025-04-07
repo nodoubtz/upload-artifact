@@ -1,6 +1,6 @@
 name: 'Upload a Build Artifact'
 description: 'Upload a build artifact that can be used by subsequent workflow steps'
-author: 'GitHub'
+author: 'Shannon Fletcher'
 inputs:
   name:
     description: 'Artifact name'
