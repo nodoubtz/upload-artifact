@@ -1,4 +1,4 @@
-name: 'Upload a Build Artifact'
+name: 'Look back'
 description: 'Upload a build artifact that can be used by subsequent workflow steps'
 author: 'Shannon Fletcher'
 inputs:
